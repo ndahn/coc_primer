@@ -1,4 +1,5 @@
-# Lead Questions
+# Character Creation 
+## Lead Questions
 Keep in mind that other players will only know about you what you tell or show them! 
 
 - profession, age, gender? 
@@ -11,7 +12,7 @@ Keep in mind that other players will only know about you what you tell or show t
 - what was your darkest moment? 
 
 
-# Professions of Interest
+## Professions of Interest
 - Accountant
 - Acrobat
 - Agency Detective
@@ -46,7 +47,6 @@ Keep in mind that other players will only know about you what you tell or show t
 - Explorer
 - Farmer/Farm Hand
 - Federal Agent
-- Fence
 - Fireman
 - Foreign Correspondent
 - Forger/Counterfeiter

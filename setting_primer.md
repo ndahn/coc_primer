@@ -1,11 +1,12 @@
-# The Fear of the Unknown 
+# Setting Primer
+## The Fear of the Unknown 
 Call of Cthulhu is based on a lovecraftian horror setting: what we perceive as reality is only a thin veil hiding a vast, uncaring cosmos ruled by alien gods. Humanity's only saving grace is our ignorance and the fact that these outer forces harbor only minor interest for us.
 
 Players will typically take the role of investigators in the 1920s. Your characters usually won't be aware of the higher forces at work, nor will they get involved by choice - you just happen to be at the wrong place at the wrong time.
 
 Racism was very common in this time and Lovecraft was no stranger to it, often making foreigners and people of color villains involved in dark arts and cults. This won't play a role in our sessions unless it's important for your character and everyone is cool with it. 
 
-# 1920s Quick Overview
+## 1920s Quick Overview
 *Note:if critical for your character, please check the story hook to find out what year exactly the scenario will play in!*
 
 People generally kept their word, handshake deals were a thing, violent crime not unheard of, but only city people locked their doors at night. Delicate statues in small towns went unmolested for decades.
@@ -36,10 +37,10 @@ Speakeasy
 Typical fashion  
 
 
-# Prices
+## Prices
 Most prices are rounded and taken from https://cultistarmoury.org/1920s-price-list/#tab-1 
 
-## Clothes
+### Clothes
 - Flannel Work Shirt - $1.75
 - Bow Tie - $0.75
 - Felt Fedora Hat - $5.00
@@ -51,7 +52,7 @@ Most prices are rounded and taken from https://cultistarmoury.org/1920s-price-li
 - Wool Scarf - $3.50 
 - Work Pants - $3.00
 
-## Entertainment
+### Entertainment
 - Boxing Match Tickets - $2.00
 - Chess Set - $3.50
 - Playing Cards - $0.25 per deck
@@ -61,7 +62,7 @@ Most prices are rounded and taken from https://cultistarmoury.org/1920s-price-li
 - Record Albums - $2.00
 - Silent Film Tickets - $0.25 each 
 
-## Food
+### Food
 - Bread 1 lb. - $0.10
 - Cheese 1 lb. - $0.40
 - Chicken 1 lb. $0.40
@@ -71,25 +72,25 @@ Most prices are rounded and taken from https://cultistarmoury.org/1920s-price-li
 - Diner Meal - $0.35
 - Restaurant Meal - $0.75 
 
-## Living
+### Living
 - Cheap Hotel Room (per night) - $4.00 
 - Average Hotel Room (per night) - $6.00
 - 1 Bedroom Apartment Rental (month) - $13.00
 - 2 Bedroom Apartment Rental (month) - $20.00
 
-## Mail
+### Mail
 - Domestic Telegraph Service ( per word) - $0.17
 - Express Mail - $2.50
 - Parcel Post (per pound) - $0.50
 - Postage stamp - $0.02 
 
-## Speakeasy
+### Speakeasy
 - Absinthe - $1.25 per glass
 - Beer - $0.35 per bottle
 - Cocktails - $1.00 to $1.50 per glass
 - Whiskey - $0.75 per shot
 
-## Transport
+### Transport
 - Bicycle - $20.00 to $50.00
 - Car - $t500.00 to $2500.00
 - Horse Carriage Ride (per hour) - $2.00
@@ -100,15 +101,15 @@ Most prices are rounded and taken from https://cultistarmoury.org/1920s-price-li
 - Zeppelin Air Tour (hour-long) - $50.00
 
 
-# Areas of Interest 
+## Areas of Interest 
 Taken from https://web.archive.org/web/20180820145054/http://rpgideas.com/2018/03/05/the-1920s/
 
-## Art
+### Art
 - American Realism, Art Deco, Bauhaus, Constructivism, Dada, Expressionism, German Expressionism, the Mexican Muralist Movement, Social Realism, Surrealism, and other art movements flourished.
 - Salvador Dalí, Marc Chagall, Otto Dix, Wassily Kandinsky, George Grosz, Paul Klee, Tamara de Lempicka, René Magritte, Henri Matisse, Georgia O’Keefe, Pablo Picasso, Frank Lloyd Wright were famous artists from this period.
 - The Harlem Renaissance was a period of African-American (“negro,” at the time) art, music, and culture flourished. It spanned the period between the end of World War I (1918) and the mid-1930s. Jazz and blues musicians like Duke Ellington and Gretrude “Ma” Rainey and authors like W.E.B. Dubois and Langston Hughes became famous with people of all ethnicities.
 
-## Entertainment
+### Entertainment
 - A. A. Milne, Ernest Hemingway, F. Scott Fitzgerald, Gertrude Stein, Sinclair Lewis, Edith Wharton, André Breton, and H. L. Mencken found success as writers.
 - The Golden Age of Radio began. The first commercial radio station in the U.S. was launched in 1920.  One million sets were in use by 1922.
 - Motion Pictures become a popular form of entertainment, leading to vaudeville’s sharp decline in popularity by the early 1930s.
@@ -119,25 +120,25 @@ Taken from https://web.archive.org/web/20180820145054/http://rpgideas.com/2018/0
     - Mickey Mouse first appeared on theater screens in 1928.
     - Famous actors of the period included Charlie Chaplin, Rudolph Valention, Mae West, Harold Lloyd, Buster Keaton, Clara Bow, Louise Brooks, Greta Garbo, John Barrymore, Joan Crawford, Mary Pickford, Douglas Fairbanks, Anna May Wong (the first Chinese-American movie star), Al Jolson, and many more.
 
-## Fads
+### Fads
 - marathon dancing
 - mah-jongg
 - crossword puzzles
 - pole dancing contests in dance halls
 - pole sitting
 
-## Fashion
+### Fashion
 - Jewelry was strongly influenced by Art Nouveau designs.
 - Young women increasingly wore sportswear and clothing influence by the flapper aesthetic.
 - Popular men’s hats included the bowler, fedora, flat cap, homburg, newsboy cap, straw boater, trilby, and top hat.  The cloche hat was popular with women.
 - Functional, durable children’s play clothing became the norm, as opposed to more elaborate and layered clothing of the past.
 
-## Science
+### Science
 - Albert Einstein received the Nobel Prize in Physics in 1922 “for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect.”
 - In 1922, Niels Bohr received the Nobel Prize in Physics “for his services in the investigation of the structure of atoms and of the radiation emanating from them.”
 - Alexander Fleming discovered penicillin in 1928, but it wouldn’t become a widely-used antibiotic until the 1930s.
 
-## Music
+### Music
 - Dance clubs became a major form of entertainment.
 - The Foxtrot, The Waltz, and The Tango were the most popular dances.
 - Jazz became a popular form of music.
@@ -146,7 +147,7 @@ Taken from https://web.archive.org/web/20180820145054/http://rpgideas.com/2018/0
 - The genre of Country Music started to form.
 - Famous singers of the period included Louis Armstrong, Jelly Roll Morton, Bing Crosby, Bessie Smith, Jimmy Rodgers, The Carter Family, Cole Porter, Béla Bartók, and George Gershwin.
 
-## Social Issues
+### Social Issues
 - Women began to work outside the home.
 - The Equal Rights Amendment was presented to Congress in 1921.
 - Flappers arose in the post-World War I years.  They were young women who had rejected traditional gender roles in favor of living broader, freer lives, like men.  They were particularly known for going to “wild” parties, drinking, smoking, and embracing sexual freedom.  The 1920 film “The Flapper,” the first U.S. film to depict that subculture.
@@ -159,7 +160,7 @@ Taken from https://web.archive.org/web/20180820145054/http://rpgideas.com/2018/0
 - The Great Depression begins after Black Tuesday (October 29, 1929).
 - The American Mafia/Cosa Nostra grew throughout the 1920s, partially in response to Prohibition. Al Capone, Lucky Luciano, and others got their start in organized crime in the earlier “Five Points Gang.”
 
-## Sports
+### Sports
 - Baseball was the #1 sport. Babe Ruth joined the New York Yankees in 1920 and gained fame as a power hitter. The farm system was created, and the Negro National League was formed and ran from 1920-1931.
 - Jack Dempsey was the World Heavyweight Champion from 1919 – 1926.
 - The first professional basketball leagues in the U.S. were created.
@@ -167,13 +168,13 @@ Taken from https://web.archive.org/web/20180820145054/http://rpgideas.com/2018/0
 - Golf became more popular, with American Walter Hagen winning the British Open Championship in 1922.
 - The first Winter Olympic Games is held in France in 1924.
 
-## Technology
+### Technology
 - Indoor plumbing and household electricity became more common.
 - Telephone became more widespread.  In 1920, 35% of homes had a telephone.  Rotary dial phones were replacing the old “stick style” ones.  In 1926 the first transatlantic phone call was made from London to New York.
 - Mass-produced automobiles became common, with Ford releasing the Model T in 1927.The first liquid-fueled rocket was launched in 1926.
 - In 1927, Charles Lindbergh made the first solo nonstop transatlantic flight.
 
-## Toys
+### Toys
 - Meccano, Erector, Lincoln Logs, and Tinkertoys building sets were popular toys of the time.
 - Companies like the Knickerbocker Toy Company made teddy bears popular.
 - Donald Duncan promoted the yo-yo, making it a popular toy.
@@ -181,19 +182,19 @@ Taken from https://web.archive.org/web/20180820145054/http://rpgideas.com/2018/0
 - Effanbee and Schoenhut produced popular dolls for girls.
 - Kites, marbles, stick horses, wooden blocks, and tops continued to be popular childhood toys.
 
-## U.S. Presidents
+### U.S. Presidents
 - Warren G. Harding (1921 – 1923)
 - Calvin Coolidge (1923 – 1929)
 - Herbert Hoover (1929 – 1933)
 
-## Wars
+### Wars
 - World War I had ended (1918)
 - Polish-Soviet War (1919-1921)
 - Irish War of Independence (1919-1921)
 - Turkish War of Independence (1919-1923)
 - Chinese Civil War (1927-1937)
 
-## World Affairs
+### World Affairs
 - Fascists continued to gain power in Italy, and were later copied by Adolf Hitler.
 - The Weimar Republic in Germany ran from 1919 to 1933, with its Golden Era lasting from 1924-1929. It was a cultural renaissance period where new forms of entertainment and new ideas about modernity flourished.
 - King Tut’s Tomb was discovered in 1922, leading to a worldwide fascination with Ancient Egypt.
@@ -201,9 +202,9 @@ Taken from https://web.archive.org/web/20180820145054/http://rpgideas.com/2018/0
 - Egypt gained independence from Britain (1922).
 - The Pahlavi Dynasty rose as the last Iranian monarchy (1925-1979).
 
-# For The Curious
+## For The Curious
 
-## General Links
+### General Links
 [The 1920s](https://web.archive.org/web/20180820145054/https://en.wikipedia.org/wiki/1920s)
 
 [The Roaring Twenties](https://web.archive.org/web/20180820145054/https://en.wikipedia.org/wiki/Roaring_Twenties)
@@ -216,14 +217,14 @@ Taken from https://web.archive.org/web/20180820145054/http://rpgideas.com/2018/0
 
 [Weimar Culture](https://web.archive.org/web/20180820145054/https://en.wikipedia.org/wiki/Weimar_culture) (Germany)
 
-## Catalog Links
+### Catalog Links
 [1920 Montgomery Ward Catalog](https://web.archive.org/web/20180820145054/https://archive.org/details/montgomerywardca1920mont)
 
 [1921 Sears Honor Bilt Homes Catalog](https://web.archive.org/web/20180820145054/https://archive.org/details/HonorBiltModernHomes)
 
 [1924 Stowe Supply Company: General Catalog No. 30](https://web.archive.org/web/20180820145054/https://archive.org/details/StoweSupplyCatalogNo301924)
 
-## Magazine Links
+### Magazine Links
 [1919 (Oct.) – 1920 (Jan.) Munsey’s Magazine](https://web.archive.org/web/20180820145054/https://archive.org/details/munseysmag68editmiss)
 
 [1920 (Aug. 15) – Aviation Week](https://web.archive.org/web/20180820145054/https://archive.org/details/Aviation_Week_1920-08-15)
@@ -246,7 +247,7 @@ Taken from https://web.archive.org/web/20180820145054/http://rpgideas.com/2018/0
 
 [1929 (Mar.) The Merry Magazine](https://web.archive.org/web/20180820145054/https://archive.org/details/mm_1929_03)
 
-## Pulps with Lovecraft Stories
+### Pulps with Lovecraft Stories
 [1925 (Jan.) Weird Tales](https://web.archive.org/web/20180820145054/https://archive.org/details/WeirdTalesV05N01192501) (includes “The Festival”)
 
 [1926 (Aug.) Weird Tales](https://web.archive.org/web/20180820145054/https://archive.org/details/WeirdTalesV08N02192608) (includes “The Terrible Old Man”)

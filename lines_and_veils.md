@@ -1,3 +1,4 @@
+# Lines and Veils
 While this is a horror setting, everyone should feel safe and comfortable about playing the game. It is difficult to completely avoid themes like blood, murder or madness in CoC, and it is expected to feel uncomfortable at times, but there are nuances between black and white. 
 
 Lines and veils are a tool to allow every player to define what they are willing to bear. While (red) lines are things that are banned from appearing at all, veils are topics that can be mentioned, but should not become prominent or get described in great detail. 
