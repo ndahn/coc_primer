@@ -11,6 +11,10 @@ Keep in mind that other players will only know about you what you tell or show t
 - what do you want no one to find out? 
 - what was your darkest moment? 
 
+## Getting into the Thicket
+For first time players and oneshots, I would suggest to not let your character struggle too much with getting involved, i.e. your character should have a reason to follow the hook and work with the others, even if they don't know each other yet. 
+
+That being said, the entry point will typically not present itself as "hey, I am made from reality-bending space magic". Investigating a disappearance, chasing a news story or being in a situation where running away is simply not an option are all typical reasons for your character to get involved more than they may have wished to. In general, this reason will be provided by the story. 
 
 ## Professions of Interest
 - Accountant
