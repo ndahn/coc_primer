@@ -131,7 +131,7 @@ As mentioned earlier, there is no strict way to use them. If a skill seems to ma
 ### Stat Assignment
 *You don't need to do this beforehand! I am happy to guide you through the process on our first session :)*
 
-The easiest way to assign stats is called quickfire, in which you get a bunch of numbers for your basic stats and skills and then assign them freely. 
+The easiest way to assign stats is called quickfire, in which you get a bunch of numbers for your basic stats and skills and then assign them freely. This method is described below. 
 
 There are other ways to assign stats based on dice rolls and a point buying system. Drop me a message if this is more up your alley!
 
