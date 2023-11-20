@@ -12,6 +12,7 @@ You can add/alter/remove your personal lines and veils at any time before or dur
 - torture (animals)
 
 **Veils - these won't be prominent**
-- racism and similar hate cultures
+- racism, sexism and other forms of discrimination
 - mental abuse
-- torture (humans) 
+- torture (humans)
+- explicit sex
