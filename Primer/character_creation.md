@@ -142,14 +142,14 @@ For your basic stats, you would assign the following values to your *Strength, D
 There are a few secondary stats that will be calculated differently:
 - HP: (Con + Siz) / 10
 - Sanity: =Pow
-- Luck: (2d6 + 6) x 5
+- Luck: (3d6) x 5
 - Movement Rate, Damage Bonus, etc.: influenced by your strength, dexterity and size
 
 There will also be boni and mali to some stats based on your age. 
 
 #### Skills
 In addition, you can distribute a set of numbers across your skills. However, there are two special skills: 
-- Credit Rating, i.e. how rich your character is): purely based on your background. Assign whatever makes sense to you here!
+- Credit Rating, i.e. how rich your character is: purely based on your background. Assign whatever makes sense to you here!
 - Cthulhu Mythos, your character's understanding of what lies beyond. This will start at 0. You cannot assign points to it. 
 
 Otherwise, just keep your occupation and background in mind and assign the following numbers:
